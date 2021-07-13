@@ -98,7 +98,7 @@ public class Main {
         int bonus=200;
         if (gameOver){
             getFinalScore(score,levelcompleted,bonus);
-        }           
+        }            
         
     }
     public static void getFinalScore(int score,int levelComplete,int bonus){
